@@ -18,3 +18,4 @@ if (grade >= 90 && grade <=100 ) {
 }else if ( grade <=50 ){
     console.log("راسب")
 } 
+// 
